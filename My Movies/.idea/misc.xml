@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/workspace/P11/My Movies/app/src/main/res/layout/activity_edit.xml" value="0.1" />
         <entry key="..\:/Android/workspace/P11/My Movies/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/workspace/P11/My Movies/app/src/main/res/layout/row.xml" value="0.2" />
+        <entry key="..\:/Android/workspace/P11/My Movies/app/src/main/res/layout/show_activity.xml" value="0.264" />
       </map>
     </option>
   </component>
